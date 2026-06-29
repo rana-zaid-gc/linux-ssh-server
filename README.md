@@ -98,4 +98,9 @@ Private keys are never included in this repository. Only the steps are documente
 
 ---
 
-*A Linux fundamentals project from my DevOps learning journey.*
+
+
+
+
+
+<img width="907" height="242" alt="image" src="https://github.com/user-attachments/assets/1dd0e0d2-8b5e-40d2-a295-280414fd2f68" />
