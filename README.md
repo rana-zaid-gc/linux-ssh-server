@@ -2,7 +2,7 @@
 
 Setting up a remote Linux server and configuring it to allow SSH connections using **two separate SSH key pairs**, an `~/.ssh/config` alias for quick access, and `fail2ban` to protect against brute-force attacks.
 
-> Project URL: https://roadmap.sh/projects/linux-server-setup
+> https://roadmap.sh/projects/ssh-remote-server-setup
 
 ## Goal
 
